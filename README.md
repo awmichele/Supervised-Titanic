@@ -14,6 +14,7 @@ provides information about the passengers aboard the Titanic from Cherbourg harb
 4. The highest class that survives is Pclass 1
 5. based on data, the best model for predict the data is random forest whitch is the highest accuracy and precision value.
 
+if you have any suggestion, please reach out me in direct message on email : dwinc1136@gmail.com and linkedin :https://www.linkedin.com/in/dwi-nur-cahyani-3957a232b/
 
 
 
